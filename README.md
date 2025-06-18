@@ -7,7 +7,7 @@
 
 - **📈 Performance Analysis** — Automatically detects trends in revenue, profit, and expenses.
 - **📊 Comparative Insights** — Compares current and historical reports to identify growth or decline.
-- **🧠 LLM-Powered Reasoning** — Uses a large language model (e.g., DeepSeek or GPT) to provide natural-language insights.
+- **🧠 LLM-Powered Reasoning** — Uses a large language model (DeepSeek) to provide natural-language insights.
 - **🔍 Key Metric Extraction** — Extracts essential financial metrics like EBITDA, ROE, cash flow, and more.
 
 ---
