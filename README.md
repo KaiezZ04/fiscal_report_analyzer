@@ -12,9 +12,11 @@
 
 ---
 
-## 📦 Installation
+## 📦 Installation and Uses
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/fiscal_report_analyzer.git
    cd fiscal_report_analyzer
+2. Upload the fiscal report PDF, and correct the variables' names.
+3. You are ready to go.
